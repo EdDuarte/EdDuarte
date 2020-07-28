@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**EdDuarte/EdDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Ed Duarte!
 
-Here are some ideas to get you started:
+Full-Stack Software Engineer from Portugal with over five years of hands-on
+experience in Backend Architecture, Distributed Systems, Web & Mobile Frontend
+Development and UI/UX Design. Worked extensively with languages such as Java,
+Kotlin, Typescript, Javascript ES6 and Swift. Co-founded two tech startups,
+published four research papers, and spoken at various conferences around the
+globe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently:
+- Looking for a job. [Talk to me!](mailto:hi@edduarte.com)
+- Learning golang
+- Self-studying formal methods and reasoning systems
