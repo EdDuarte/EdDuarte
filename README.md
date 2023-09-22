@@ -1,2 +1,2 @@
-
-Say Hi! :wave: ➜ hi@edduarte.com
+My website 🌐 ➜ https://www.edduarte.com
+Say Hi! 👋 ➜ hi@edduarte.com
