@@ -1,3 +1,3 @@
-My website 🌐 ➜ [EdDuarte.com](https://www.EdDuarte.com)
+My website 🌐 ➜ [EdDuarte.com](https://www.edduarte.com)
 
-Say Hi! 👋 ➜ hi@EdDuarte.com
+Say Hi! 👋 ➜ hi@edduarte.com
